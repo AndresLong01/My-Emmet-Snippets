@@ -14,7 +14,10 @@ These snippets work similarly to other Emmet abbreviations, you will begin typin
 
 Available abbreviations:
 
-**bootstrap** - This will add the Bootstrap stylesheet CDN link.
+**bootstrapCSS** - This will add the Bootstrap stylesheet CDN link.
 
 
 **html:bootstrap** - This is similar to the html:5 abbreviation, but includes Bootstrap CSS and JS links in the head and body.
+
+
+**bootstrapJS** - This will add the Bootstrap Javascript links.
